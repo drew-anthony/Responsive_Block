@@ -1,0 +1,164 @@
+/*CSS reset settings here*/
+*{
+    margin: 5px;
+    padding: 5px;
+   }
+   #wrapper{
+    width: 1000px;
+    height: 615px;
+    background-color: silver;
+    margin: 0px auto;
+   }
+   #header{
+    min-height: 150px;
+    background-color: green;
+   }
+   #navigation{
+    min-height: 300px;
+    width: 200px;
+    background-color: blue;
+    float: left;
+   }
+   #main_content{
+    min-height: 400px;
+    width: 725px;
+    padding: 15px;
+    float: right;
+    background-color: red;
+   }
+   .subcontents{
+    min-height: 200px;
+    width: 210px;
+    padding: 5px;
+    background-color: yellow;
+    display: inline-block;
+    position: center;
+   }
+   #advertisement{
+    min-height: 120px;
+    width: 660px;
+    background-color: purple;
+   }
+@media only screen and (max-width: 480px){
+    *{
+        margin: 5px;
+        padding: 5px;
+       }
+       #wrapper{
+        width: 1000px;
+        height: 615px;
+        background-color: silver;
+        margin: 0px auto;
+       }
+       #header{
+        min-height: 150px;
+        background-color: green;
+       }
+       #navigation{
+        min-height: 300px;
+        width: 200px;
+        background-color: blue;
+        float: left;
+       }
+       #main_content{
+        min-height: 400px;
+        width: 725px;
+        padding: 15px;
+        float: right;
+        background-color: red;
+       }
+       .subcontents{
+        min-height: 200px;
+        width: 210px;
+        padding: 5px;
+        background-color: yellow;
+        display: inline-block;
+        position: center;
+       }
+       #advertisement{
+        min-height: 120px;
+        width: 660px;
+        background-color: purple;
+       }
+@media only screen and (min-width: 481px){
+    *{
+        margin: 5px;
+        padding: 5px;
+       }
+       #wrapper{
+        width: 1000px;
+        height: 615px;
+        background-color: silver;
+        margin: 0px auto;
+       }
+       #header{
+        min-height: 150px;
+        background-color: green;
+       }
+       #navigation{
+        min-height: 300px;
+        width: 200px;
+        background-color: blue;
+        float: left;
+       }
+       #main_content{
+        min-height: 400px;
+        width: 725px;
+        padding: 15px;
+        float: right;
+        background-color: red;
+       }
+       .subcontents{
+        min-height: 200px;
+        width: 210px;
+        padding: 5px;
+        background-color: yellow;
+        display: inline-block;
+        position: center;
+       }
+       #advertisement{
+        min-height: 120px;
+        width: 660px;
+        background-color: purple;
+       }
+@media only screen and (min-width: 1024px){
+    *{
+        margin: 5px;
+        padding: 5px;
+       }
+       #wrapper{
+        width: 1000px;
+        height: 615px;
+        background-color: silver;
+        margin: 0px auto;
+       }
+       #header{
+        min-height: 150px;
+        background-color: green;
+       }
+       #navigation{
+        min-height: 300px;
+        width: 200px;
+        background-color: blue;
+        float: left;
+       }
+       #main_content{
+        min-height: 400px;
+        width: 725px;
+        padding: 15px;
+        float: right;
+        background-color: red;
+       }
+       .subcontents{
+        min-height: 200px;
+        width: 210px;
+        padding: 5px;
+        background-color: yellow;
+        display: inline-block;
+        position: center;
+       }
+       #advertisement{
+        min-height: 120px;
+        width: 660px;
+        background-color: purple;
+       }
